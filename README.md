@@ -1,2 +1,2 @@
 # skully
-command line tool auto completions  with a brain 
+a small sicrpt for thame the tremux shell in android
